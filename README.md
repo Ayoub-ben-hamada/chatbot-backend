@@ -1,8 +1,3 @@
-
----
-
-## ✅ `README.md` for the **Backend (Flask + Ollama)**
-
 # ⚙️ AI Chatbot Backend — Flask + Ollama
 
 This is the **backend API** for my AI chatbot project.  
